@@ -1,2 +1,2 @@
 # new-test
-this is an new test directory to learn git .
+this is an new test directory to learn git .1
